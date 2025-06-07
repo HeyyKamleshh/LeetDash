@@ -56,12 +56,12 @@ git clone https://github.com/your-username/leetdash.git
 ```
 
 ## 📁 Project Structure
-
+```bash
 leetdash/
 ├── index.html         # Main HTML file
 ├── style.css          # Styling for the dashboard
 └── script.js          # JavaScript logic to fetch and display data
-
+```
 ## 🔧 TODO / Future Improvements
 - Add user profile image and name display
 - Add charts for monthly activity
